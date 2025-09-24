@@ -1,8 +1,20 @@
-- 👋 Hi, my name is Serge, I’m an academic scholar with focus on Natural Language Processing
-- 👀 I’m interested in comparative literature, Hebrew language, NLP, machine learning
-- 🌱 I’m currently learning approaches of NLP with Python for Hebrew texts
-- 💞️ I’m looking to collaborate with anyone who is interested in this topic
-- 📫 You can contact me via my email serge.gurbich(at) gmail.com
+# 👋 Hi, I'm Sergii Gurbych
+
+I'm a postdoctoral researcher in Jewish Studies and Digital Humanities at Vilnius University. My work focuses on historical handwritten documents, interwar cultural memory, and computational tools for processing Hebrew-script sources.
+
+## 🧠 My interests include:
+
+- Yiddish and Hebrew handwritten text recognition (HTR)
+- Digital editions of archival materials
+- Epistolary networks, youth movements, and Jewish history in Central and Eastern Europe
+- Custom HTR model training with Kraken
+- OCR, layout analysis, and Digital Humanities infrastructure
+
+## 📂 Featured project
+
+**[Kraken HTR model – Vilne Yiddish Hand 1](https://github.com/SergeyGurbich/kraken-htr-vilne-hand-1)**  
+A base HTR model trained on interwar Yiddish handwriting from Vilnius.  
+Intended for fine-tuning and research use in Hebrew-script archives.
 
 
 
